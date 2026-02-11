@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prophet-Vince
 - 👀 I’m interested in fullstack software development 
 - 🌱 I’m currently learning html, CSS and JS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m a backend developer (node.js/express)
+- 📫 vinciakins@gmail.com
 
 <!---
 Prophet-Vince/Prophet-Vince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
